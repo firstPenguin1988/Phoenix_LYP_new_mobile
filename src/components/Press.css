@@ -1,0 +1,12 @@
+.live-mint {
+    flex:1;
+    align-self: stretch;
+    height: undefined;
+    width: undefined
+}
+
+.livemint-story {
+    display: flex;
+    flex-direction: row;
+}
+  
